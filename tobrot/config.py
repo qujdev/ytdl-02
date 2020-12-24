@@ -10,12 +10,11 @@ class Config(Config):
   LEECH_COMMAND = "leech@bravelybot"
   CLEAR_THUMBNAIL = "clearthumbnail@bravelybot"
   SAVE_THUMBNAIL = "savethumbnail@bravelybot"
-  OWNER_ID = 715779594
+  OWNER_ID = 1464067320
   RCLONE_CONFIG = """type = drive
 scope = drive
-root_folder_id = 1rWomzK1yVjkqIbC9p9EBBKJgcf3imGr4
-token = {"access_token":"ya29A0AfH6SMCaLwuWkNALk5I4IWBZP6y5Y4lZRkgepXoaf-LvSu2jmNDyLzezwJk-HlgcP1OSiRKqAa9qKsCBMv9O2IMd1ebAwhYdVoNP7jIXMRBDKzD10qfrzq7oGda_Z-vP3Qvl6PQcOYC3x5ecEkU3vMIyqEC2xgANsEnowpSENeU","token_type":"Bearer","refresh_token":"1//0gHp6knwySTm9CgYIARAAGBASNwF-L9IrRPO94mU1d9kBkUu1BbYrkA_EMhGXcCiHXGULiAZDg5BmaSxhrtALRfBmVpiotPEtK6Q","expiry":"2020-11-11T13:38:54.4701885+06:00"}
-team_drive = 1rWomzK1yVjkqIbC9p9EBBKJgcf3imGr4"""
+token = {"access_token":"ya29.a0AfH6SMBtf7kt7rfb2zXGKD8yGgrP2387_sX5Q4I0czgqthfdSldLi4Xh6zogVwcPzch_KUGwK_Ur8FyfzcJegdWM7aQGu3ujp3Z0R4ddVpTl3XqWcGWA4S5VDqcWrcwid-4rEmE658KNMfgMM7WfxMg_BUMmxRuDHh3S8tosCF0","token_type":"Bearer","refresh_token":"1//0gxLXtEcUe5V4CgYIARAAGBASNwF-L9IrlgIaC9FAL6bLZ34Id_hccgZO9WfVm-wIgnKOQHBKfjgRYZX9_4Bb-x8ZHELqo66lmQs","expiry":"2020-12-24T15:50:19.450632145Z"}
+team_drive = 0ADgye8jT_91FUk9PVA"""
   DESTINATION_FOLDER = ""
   GLEECH_COMMAND = "gleech@bravelybot"
   TELEGRAM_LEECH_COMMAND_G = "tleech@bravelybot"
@@ -23,3 +22,4 @@ team_drive = 1rWomzK1yVjkqIbC9p9EBBKJgcf3imGr4"""
   MAX_TG_SPLIT_FILE_SIZE = 2097152000
   CANCEL_COMMAND_G = "cancel@bravelybot"
   STATUS_COMMAND = "status@bravelybot"
+  MAX_FILE_SIZE = 5242880000
