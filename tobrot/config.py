@@ -1,10 +1,10 @@
 from tobrot.sample_config import Config
  
 class Config(Config):
-  TG_BOT_TOKEN = "1473537270:AAFI0kJCyqcMR7X3cJu51ZSgvjm67jIZLo8 "
+  TG_BOT_TOKEN = "1473537270:AAFI0kJCyqcMR7X3cJu51ZSgvjm67jIZLo8"
   APP_ID = 2048409 
   API_HASH = "649e419e5fa739da02b649780d492c1b"
-  AUTH_CHANNEL = [-1001235672935, -1001450960310, -1001260343472,  911646244 ]
+  AUTH_CHANNEL = [-1001235672935, -1001450960310, -1001260343472, 911646244]
   INDEX_LINK = "https://up.bravelybot.workers.dev/3:/Uploads"
   YTDL_COMMAND = "ytdl@bravelybot"
   LEECH_COMMAND = "leech@bravelybot"
