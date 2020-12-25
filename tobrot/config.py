@@ -5,7 +5,7 @@ class Config(Config):
   APP_ID = 2048409 
   API_HASH = "649e419e5fa739da02b649780d492c1b"
   AUTH_CHANNEL = [-1001235672935, -1001450960310, -1001260343472, 911646244]
-  INDEX_LINK = "https://up.bravelybot.workers.dev"
+  INDEX_LINK = "https://up.bravelybot.workers.dev/0:"
   YTDL_COMMAND = "ytdl@bravelybot"
   LEECH_COMMAND = "leech@bravelybot"
   CLEAR_THUMBNAIL = "clearthumbnail@bravelybot"
@@ -22,4 +22,4 @@ team_drive = 0ADgye8jT_91FUk9PVA"""
   MAX_TG_SPLIT_FILE_SIZE = 2097152000
   CANCEL_COMMAND_G = "cancel@bravelybot"
   STATUS_COMMAND = "status@bravelybot"
-  MAX_FILE_SIZE = 5242880000
+  MAX_FILE_SIZE = 50000000
