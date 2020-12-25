@@ -24,3 +24,5 @@ team_drive = 0ADgye8jT_91FUk9PVA"""
   STATUS_COMMAND = "status@bravelybot"
   MAX_FILE_SIZE = 50000000
   FREE_USER_MAX_FILE_SIZE = 50000000
+  GET_SIZE_G = "getsize@bravesaw"
+  RENEWME_COMMAND = "renewme@bravesaw" 
